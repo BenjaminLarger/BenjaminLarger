@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BenjaminLarger/so_long/blob/main/cuyE1HXf_2x%20(1)%20(1).jpg" alt="MasterHead">
+  <img src="https://github.com/BenjaminLarger/so_long/blob/main/bitcoin_to_the_moon.jpg" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Benjamin Larger</h1>
 <h3 align="center">🎓 Programming Engineering student at 42 School | Market Finance Master's degree from Université de Montpellier</h3>
