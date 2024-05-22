@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Larger</h1>
-<h3 align="center">🎓 <Programmation Engineering in 42 School | Market Finance Master degree in Université de Montpellier></h3>
-[https://giphy.com/gifs/ethereum-eth-polyblock-L59aKIC2MFyfUfrz3n](https://mir-s3-cdn-cf.behance.net/project_modules/hd/530d19128171271.6153059aec31a.gif)
+<h3 align="center">🎓 Programmation Engineering in 42 School | Market Finance Master degree in Université de Montpellier</h3>
+https://mir-s3-cdn-cf.behance.net/project_modules/hd/530d19128171271.6153059aec31a.gif
 
 - 🔭 I’m currently working on [CPP Module 00](https://github.com/BenjaminLarger/C-)
 
