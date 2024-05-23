@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/BenjaminLarger/BenjaminLarger/blob/main/header.png)
+![MasterHead](https://github.com/BenjaminLarger/BenjaminLarger/blob/main/Banner%20GitHub.png)
 
 <h3 align="center">🎓 Programming Engineering at 42 School | Market Finance Master's degree at Université de Montpellier</h3>
 <div align="center">
