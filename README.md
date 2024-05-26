@@ -2,11 +2,12 @@
   <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/3dof-ezgif.com-crop.gif" alt="MasterHead">
 </div>
 
-<h3 align="center">🎓 Programming Engineering at 42 School | Market Finance Master's degree at Université de Montpellier</h3>
+<!-- <h3 align="center">🎓 Programming Engineering at 42 School | Market Finance Master's degree at Université de Montpellier</h3>
 <div align="center">
   <img align="center" width="200" src="https://media.licdn.com/dms/image/D4D12AQH87JCWFrJa0w/article-cover_image-shrink_600_2000/0/1663149034083?e=2147483647&v=beta&t=WTDV1QJflRlzNIOafKgUuYaQANdUDvRobPYfe2Wd4bI">
   <img align="center" width="200" src="https://www.montpellier-management.fr/wp-content/uploads/2023/02/logo_um_2022_rouge_RVB-1.png">
-</div>
+</div> -->
+
 
 <br />
 <hr />
