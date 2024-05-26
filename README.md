@@ -26,28 +26,29 @@
 
 - ⚡ Fun fact **I am a blockchain enthusiastic**
 
-<h3 align="left">My 42 curriculum:</h3>
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libfte.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png">
-<img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png">
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+<div align="left">
+  <h3 align="left">My 42 curriculum:</h3>
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libfte.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png">
+  <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png">
+</div>
 
+<div align="left">
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/benjamin-larger-695469237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-larger-695469237/" height="60" width="80" /></a>
-</p>
+<div align="left">
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/benjamin-larger-695469237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-larger-695469237/" height="60" width="80" /></a>
+  </p>
+</div>
 
 
