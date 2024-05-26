@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/3dof-ezgif.com-crop.gif" alt="MasterHead">
 </div>
+<h1 align="center"> < 👋 Bonjour, world ! ></h1>
 
 <!-- <h3 align="center">🎓 Programming Engineering at 42 School | Market Finance Master's degree at Université de Montpellier</h3>
 <div align="center">
@@ -10,7 +11,6 @@
 
 
 <br />
-<hr />
 
 <div align="left">
   - 🔭 I’m currently working on [CPP Module 00](https://github.com/BenjaminLarger/C-)
