@@ -6,6 +6,9 @@
   <img align="center" width="200" src="https://www.montpellier-management.fr/wp-content/uploads/2023/02/logo_um_2022_rouge_RVB-1.png">
 </div>
 
+<br />
+<hr />
+
 <div align="left">
   - 🔭 I’m currently working on [CPP Module 00](https://github.com/BenjaminLarger/C-)
   
@@ -16,7 +19,7 @@
   - 🤝 I’m looking to improve [Minishell](https://github.com/BenjaminLarger/minishell)
   
   - 👨‍💻 All of my projects are available at [https://github.com/BenjaminLarger?tab=stars](https://github.com/BenjaminLarger?tab=stars)
-  
+
   - 📝 My 42 intra profile [https://profile.intra.42.fr/users/blarger](https://profile.intra.42.fr/users/blarger)
   
   - 💬 Ask me about **42 curriculum**
@@ -27,6 +30,9 @@
   
   - ⚡ Fun fact **I am a blockchain enthusiast**
 </div>
+
+<br />
+<hr />
 
 <div align="left">
   <h3 align="left">My 42 curriculum:</h3>
@@ -40,6 +46,21 @@
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png">
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png">
 </div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<hr />
 
 <div align="left">
   <h3 align="left">Languages and Tools:</h3>
@@ -58,6 +79,9 @@
     </a>
   </p>
 </div>
+
+<br />
+<hr />
 
 <div align="left">
   <h3 align="left">Connect with me:</h3>
