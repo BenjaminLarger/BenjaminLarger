@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/3dof-ezgif.com-crop.gif" alt="MasterHead">
+  <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/pixelcut-export.png" alt="MasterHead">
 </div>
 <h1 align="center"> < 👋 Bonjour, world ! ></h1>
 
@@ -42,9 +42,11 @@
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/libfte.png">
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png">
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png">
+  <br />
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png">
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png">
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png">
+  <br />
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png">
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png">
   <img align="left" alt="Coding" width="100" src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png">
