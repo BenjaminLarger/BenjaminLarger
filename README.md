@@ -16,7 +16,7 @@
   
   - 🌱 I’m currently learning **Solidity**
   
-  - 👯 My collaborative project I am the most proud of is [Cub3d](https://github.com/DorukEmre/cub3d)
+  - 👯 My collaborative project I am the most proud of is [Cub3d](https://github.com/BenjaminLarger/Cub3D)
   
   - 🤝 I’m looking to improve [Minishell](https://github.com/BenjaminLarger/minishell)
   
