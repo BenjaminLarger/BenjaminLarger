@@ -39,78 +39,99 @@
 <div align="left">
   <h3 align="left">My 42 curriculum:</h3>
   <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libfte.png" alt="Libft" width="100">
-        <br>
-        <strong>Libft</strong>
-        <br>
-        <span>A custom implementation of standard C library functions.</span>
-      </td>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png" alt="Get Next Line" width="100">
-        <br>
-        <strong>Get Next Line</strong>
-        <br>
-        <span>A function to read a line from a file descriptor.</span>
-      </td>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" alt="Born2beRoot" width="100">
-        <br>
-        <strong>Born2beRoot</strong>
-        <br>
-        <span>A system administration project to create a server.</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="ft_printf" width="100">
-        <br>
-        <strong>ft_printf</strong>
-        <br>
-        <span>A recreation of the printf function in C.</span>
-      </td>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="pipex" width="100">
-        <br>
-        <strong>pipex</strong>
-        <br>
-        <span>A project to replicate shell pipe functionality.</span>
-      </td>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png" alt="so_long" width="100">
-        <br>
-        <strong>so_long</strong>
-        <br>
-        <span>A small 2D game made with the MinilibX library.</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="push_swap" width="100">
-        <br>
-        <strong>push_swap</strong>
-        <br>
-        <span>A sorting algorithm project.</span>
-      </td>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="philosophers" width="100">
-        <br>
-        <strong>Philosophers</strong>
-        <br>
-        <span>An implementation of the dining philosophers problem.</span>
-      </td>
-      <td align="center">
-        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="cub3d" width="100">
-        <br>
-        <strong>cub3d</strong>
-        <br>
-        <span>A 3D game inspired by Wolfenstein 3D.</span>
-      </td>
-    </tr>
-  </table>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/libft" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libfte.png" alt="Libft" width="100">
+            <br>
+            <strong>Libft</strong>
+            <br>
+            <span>A custom implementation of standard C library functions.</span>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/get_next_line" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linee.png" alt="Get Next Line" width="100">
+            <br>
+            <strong>Get Next Line</strong>
+            <br>
+            <span>A function to read a line from a file descriptor.</span>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/born2beroot" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2beroote.png" alt="Born2beRoot" width="100">
+            <br>
+            <strong>Born2beRoot</strong>
+            <br>
+            <span>A system administration project to create a server.</span>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/ft_printf" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="ft_printf" width="100">
+            <br>
+            <strong>ft_printf</strong>
+            <br>
+            <span>A recreation of the printf function in C.</span>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/pipex" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png" alt="pipex" width="100">
+            <br>
+            <strong>pipex</strong>
+            <br>
+            <span>A project to replicate shell pipe functionality.</span>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/so_long" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/so_longm.png" alt="so_long" width="100">
+            <br>
+            <strong>so_long</strong>
+            <br>
+            <span>A small 2D game made with the MinilibX library.</span>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/push_swap" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png" alt="push_swap" width="100">
+            <br>
+            <strong>push_swap</strong>
+            <br>
+            <span>A sorting algorithm project.</span>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/philosophers" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="philosophers" width="100">
+            <br>
+            <strong>Philosophers</strong>
+            <br>
+            <span>An implementation of the dining philosophers problem.</span>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/BenjaminLarger/cub3d" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="cub3d" width="100">
+            <br>
+            <strong>cub3d</strong>
+            <br>
+            <span>A 3D game inspired by Wolfenstein 3D.</span>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
+
+
 
 <div align="left">
   <h3 align="left">Languages and Tools:</h3>
