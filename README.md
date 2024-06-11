@@ -28,7 +28,7 @@
   
   - 📫 How to reach me **benjaminlarger.bl@gmail.com**
   
-  - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-larger-695469237/](https://www.linkedin.com/in/benjamin-larger-695469237/)
+  - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-larger-695469237/)
   
   - ⚡ Fun fact **I am a blockchain enthusiast**
 </div>
@@ -157,7 +157,7 @@
 <div align="left">
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/benjamin-larger-695469237/" target="blank">
+    <a href="https://www.linkedin.com/in/benjamin-larger-695469237/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-larger-695469237/" height="60" width="80" />
     </a>
   </p>
