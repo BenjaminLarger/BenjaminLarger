@@ -4,8 +4,16 @@
 
 <h3 align="center">🎓 Programming Engineering at 42 School | Market Finance Master's degree at Université de Montpellier</h3>
 <div align="center">
-  <img align="center" width="200" src="https://media.licdn.com/dms/image/D4D12AQH87JCWFrJa0w/article-cover_image-shrink_600_2000/0/1663149034083?e=2147483647&v=beta&t=WTDV1QJflRlzNIOafKgUuYaQANdUDvRobPYfe2Wd4bI">
-  <img align="center" width="200" src="https://www.montpellier-management.fr/wp-content/uploads/2023/02/logo_um_2022_rouge_RVB-1.png">
+  </a>
+      <a href="https://42.fr/en/homepage//" target="_blank" rel="noreferrer">
+      <img src="https://media.licdn.com/dms/image/D4D12AQH87JCWFrJa0w/article-cover_image-shrink_600_2000/0/1663149034083?e=2147483647&v=beta&t=WTDV1QJflRlzNIOafKgUuYaQANdUDvRobPYfe2Wd4bI"
+        alt="42" align="center" width="200/>
+    </a>
+    </a>
+      <a href="https://formations-en.umontpellier.fr/fr/formations/master-XB/master-monnaie-banque-finance-assurance-IVS5EBZE/analyse-des-risques-de-marches-mention-mbfa-IVS5EW52.html" target="_blank" rel="noreferrer">
+      <img src="https://www.montpellier-management.fr/wp-content/uploads/2023/02/logo_um_2022_rouge_RVB-1.png""
+        align="center" width="200"/>
+    </a>
 </div>
 
 <hr />
@@ -150,7 +158,7 @@
     </a>
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
       <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/sol.jpg"
-        alt="python" width="142 height="60"/>
+        alt="solidity" width="142 height="60"/>
     </a>
   </p>
 </div>
