@@ -148,6 +148,10 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
     </a>
+      <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/sol.jpg"
+        alt="python" width="142 height="60"/>
+    </a>
   </p>
 </div>
 
