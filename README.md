@@ -7,7 +7,7 @@
   </a>
       <a href="https://42.fr/en/homepage//" target="_blank" rel="noreferrer">
       <img src="https://media.licdn.com/dms/image/D4D12AQH87JCWFrJa0w/article-cover_image-shrink_600_2000/0/1663149034083?e=2147483647&v=beta&t=WTDV1QJflRlzNIOafKgUuYaQANdUDvRobPYfe2Wd4bI"
-        alt="42" align="center" width="200/>
+        alt="42" align="center" width="200"/>
     </a>
     </a>
       <a href="https://formations-en.umontpellier.fr/fr/formations/master-XB/master-monnaie-banque-finance-assurance-IVS5EBZE/analyse-des-risques-de-marches-mention-mbfa-IVS5EW52.html" target="_blank" rel="noreferrer">
