@@ -117,6 +117,15 @@
           </a>
         </td>
         <td align="center">
+          <a href="https://github.com/BenjaminLarger/minishell" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png" alt="Minishell" width="100">
+            <br>
+            <strong>Minishell</strong>
+            <br>
+            <span>A program that aim to reproduce the behaviour of bash.</span>
+          </a>
+        </td>
+        <td align="center">
           <a href="https://github.com/BenjaminLarger/philosophers" style="color: white;">
             <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="philosophers" width="100">
             <br>
@@ -125,6 +134,8 @@
             <span>An implementation of the dining philosophers problem.</span>
           </a>
         </td>
+      </tr>
+      <tr>
         <td align="center">
           <a href="https://github.com/BenjaminLarger/cub3d" style="color: white;">
             <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="cub3d" width="100">
@@ -132,6 +143,13 @@
             <strong>cub3d</strong>
             <br>
             <span>A 3D game inspired by Wolfenstein 3D.</span>
+             <td align="center">
+          <a href="https://github.com/BenjaminLarger/C-" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png" alt="C++" width="100">
+            <br>
+            <strong>C++</strong>
+            <br>
+            <span>Introduction exercices to the object oriented programming language C++.</span>
           </a>
         </td>
       </tr>
