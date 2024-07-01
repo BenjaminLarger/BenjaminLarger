@@ -102,7 +102,7 @@
             <br>
             <strong>so_long</strong>
             <br>
-            <span>A small 2D game made with the MinilibX library.</span>
+            <span>A small 2D game made with the MLX 42 library.</span>
           </a>
         </td>
       </tr>
