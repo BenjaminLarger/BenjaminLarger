@@ -5,7 +5,11 @@
 <h3 align="center">🎓 Programming Engineering at 42 School | Market Finance Master's degree at Université de Montpellier</h3>
 <div align="center">
   </a>
-      <a href="https://42.fr/en/homepage//" target="_blank" rel="noreferrer">
+      <a href="https://www.unomaha.edu/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/UNO.png"
+        alt="42" align="center" width="200"/>
+    </a>
+      <a href="https://42.fr/en/homepage/" target="_blank" rel="noreferrer">
       <img src="https://media.licdn.com/dms/image/D4D12AQH87JCWFrJa0w/article-cover_image-shrink_600_2000/0/1663149034083?e=2147483647&v=beta&t=WTDV1QJflRlzNIOafKgUuYaQANdUDvRobPYfe2Wd4bI"
         alt="42" align="center" width="200"/>
     </a>
