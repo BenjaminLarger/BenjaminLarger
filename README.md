@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/Banner%20WS.png" alt="MasterHead">
+  <img src="https://github.com/BenjaminLarger/BenjaminLarger/blob/main/pixelcut-export.png" alt="MasterHead">
 </div>
 
 <h3 align="center">🎓 Programming Engineering at 42 School | Market Finance Master's degree at Université de Montpellier</h3>
@@ -40,7 +40,7 @@
   
   - 📫 How to reach me **benjaminlarger.bl@gmail.com**
   
-  - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-larger-695469237/)
+  - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-larger/)
   
   - ⚡ Fun fact **I am a blockchain enthusiast**
 </div>
