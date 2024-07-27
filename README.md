@@ -24,24 +24,17 @@
 <br />
 
 <div align="left">
-  - 🔭 I’m currently working on [CPP Module 00](https://github.com/BenjaminLarger/C-)
   
   - 🌱 I’m currently learning **Solidity**
   
   - 👯 My collaborative project I am the most proud of is [Cub3d](https://github.com/BenjaminLarger/Cub3D)
   
-  - 🤝 I’m looking to improve [Minishell](https://github.com/BenjaminLarger/minishell)
-  
-  - 👨‍💻 All of my projects are available at [https://github.com/BenjaminLarger?tab=stars](https://github.com/BenjaminLarger?tab=stars)
-
   - 📝 My 42 intra profile [https://profile.intra.42.fr/users/blarger](https://profile.intra.42.fr/users/blarger)
   
   - 💬 Ask me about **42 curriculum**
   
   - 📫 How to reach me **benjaminlarger.bl@gmail.com**
-  
-  - 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-larger/)
-  
+   
   - ⚡ Fun fact **I am a blockchain enthusiast**
 </div>
 
