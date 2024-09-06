@@ -157,7 +157,7 @@
             <span>Developing a custom webserver with features like file uploads, CGI handling, and session management.</span>
           </a>
         </td>
-      </tr>zz
+      </tr>
     </table>
   </div>
 </div>
