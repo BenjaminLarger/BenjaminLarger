@@ -24,24 +24,6 @@
 <br />
 
 <div align="left">
-  
-  - 🌱 I’m currently learning **Solidity**
-  
-  - 👯 My collaborative project I am the most proud of is [Cub3d](https://github.com/BenjaminLarger/Cub3D)
-  
-  - 📝 My 42 intra profile [https://profile.intra.42.fr/users/blarger](https://profile.intra.42.fr/users/blarger)
-  
-  - 💬 Ask me about **42 curriculum**
-  
-  - 📫 How to reach me **benjaminlarger.bl@gmail.com**
-   
-  - ⚡ Fun fact **I am a blockchain enthusiast**
-</div>
-
-<br />
-<hr />
-
-<div align="left">
   <h3 align="left">My 42 curriculum:</h3>
   <div align="center">
     <table>
