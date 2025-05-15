@@ -149,6 +149,15 @@
             <span>Docker images with services such as MariaDB, Nginx, WordPress.</span>
           </a>
         </td>
+        <td align="center">
+          <a href="https://github.com/DorukEmre/PongWithDjango" style="color: white;">
+            <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="transcendence" width="100">
+            <br>
+            <strong>Tramscendence</strong>
+            <br>
+            <span>Full-stack Django app with user session management, real-time WebSocket communication, Solidity blockchain, API integration, and PostgreSQL database.</span>
+          </a>
+        </td>
       </tr>
     </table>
   </div>
