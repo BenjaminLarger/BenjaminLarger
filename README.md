@@ -23,6 +23,20 @@
 <hr />
 <br />
 
+<div align="center">
+  <h2>🌟 Portfolio Website</h2>
+  <p>
+    <a href="https://benjaminlarger-portfolio.vercel.app/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" height="50"/>
+    </a>
+  </p>
+  <p><em>Explore my complete work, projects, and professional journey</em></p>
+</div>
+
+<br />
+<hr />
+<br />
+
 <div align="left">
   <h3 align="left">My 42 curriculum:</h3>
   <div align="center">
